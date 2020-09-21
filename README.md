@@ -6,7 +6,7 @@ This project will be exploring the discrepancies between art estimation and in-p
 
 ### Sotheby's Hong Kong
 
-Includes Sotheby’s Hong Kong auction results from January 2016 to July 2020. As a result, the data is focused on Chinese art, Modern and Contemporary East Asian and Southeast Asian art, including both online and in-person auction results. For each art piece, the dataset includes artist name, title, online/not online, sales amount, sold/not sold, low estimate, high estimate, signed (and in what capacity)/unsigned, size, edition, foundry, creation year, category, medium, auction lot, auction date and auction location.
+Includes Sotheby’s Hong Kong auction results from January 2016 to July 2020. As a result, the data is focused on Chinese art, Modern and Contemporary East Asian and Southeast Asian art, including both online and in-person auction results. See `data` for a closer look at the features included.
 
 ## Research Questions
 
